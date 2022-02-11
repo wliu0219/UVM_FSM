@@ -9,10 +9,3 @@ $ cd dv
 
 $ make all
 
-For dump and watch wave 
-
-Execute following commands
-
-$ make dump
-
-$ make wave
